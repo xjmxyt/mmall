@@ -1,0 +1,16 @@
+*.class
+#package filegit
+*.war
+*.orig
+target/
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+#t temp file
+*.log
+*.diff
+
+.DS_STORE
